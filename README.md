@@ -4,6 +4,8 @@ Projeto criado para praticar com o Framework Angular e criando o backend em Java
 
 No momento o projeto não tem um banco de dados, os dados são salvos na memoria local para fazer os testes da aplicação.
 
+Link para acessar o [Backend](https://github.com/EderleiSilva/login-auth-api) da aplicação.
+
 ## Funcionalidades
 - Criação de usuário.
 - Login de usuário.
